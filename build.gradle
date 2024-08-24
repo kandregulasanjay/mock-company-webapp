@@ -6,8 +6,8 @@ plugins {
     id "com.github.node-gradle.node" version "3.1.0" apply false
 }
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = '17'
+targetCompatibility = '17'
 
 group = "com.mockcompany"
 version = "1.0.0"
